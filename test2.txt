@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Es geht's
+=======
+Wie geht's
+>>>>>>> added how are you in german
 
 
